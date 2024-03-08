@@ -1,51 +1,51 @@
-## AI Algorithms
+# AI Algorithms
 
 ### State Space Search
 
-Depth First Search (DFS)
-Breadth First Search (BFS)
-Depth-First Iterative Deepening (DFID)
+1. Depth First Search (DFS)
+2. Breadth First Search (BFS)
+3. Depth-First Iterative Deepening (DFID)
 
 ### Heuristic Search
 
-Best First Search
-Hill Climbing
-Beam Search
-Tabu Search
+1. Best First Search
+2. Hill Climbing
+3. Beam Search
+4. Tabu Search
 
 ### Randomized Search
 
-Simulated Annealing
-Genetic Algorithms
-Ant Colony Optimization
+1. Simulated Annealing
+2. Genetic Algorithms
+3. Ant Colony Optimization
 
 ### Finding Optimal Paths
 
-Branch and Bound
-A* (A-star)
-Iterative Deepening A* (IDA*)
-Divide and Conquer approaches
-Beam Stack Search
+1. Branch and Bound
+2. A* (A-star)
+3. Iterative Deepening A* (IDA*)
+4. Divide and Conquer approaches
+5. Beam Stack Search
 
 ### Problem Decomposition
 
-AO* (AO-star)
-Rete Net
+1. AO* (AO-star)
+2. Rete Net
 
 ### Game Playing
 
-Minimax Algorithm
-AlphaBeta Algorithm
-SSS* (Selective Search Strategy*)
+1. Minimax Algorithm
+2. AlphaBeta Algorithm
+3. SSS* (Selective Search Strategy*)
 
 ### Planning and Constraint Satisfaction
 
-Graphplan
+1. Graphplan
 
 ### Logic and Inferences
 
-Forward chaining
-Backward chaining
+1. Forward chaining
+2. Backward chaining
 
 
 
